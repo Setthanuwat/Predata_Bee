@@ -1,0 +1,4 @@
+train: /train
+val: /validation
+nc: 7
+names: ['Capped_brood', 'Unlabeled', 'Honey', 'Brood', 'Capped_honey', 'Other', 'Pollen']
